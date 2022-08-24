@@ -1,14 +1,15 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: MamaMia
 
-Breve descrição do que o seu projeto faz.
+site onde o cliente podera escolher o tipo de pizza que ele quer atravez de tabelas e cruds simples
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+MThiago viana Bezerra,496254,Engenharia de computaçao
+Joao Victor Carvalho,,Engenharia de computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Administrador,Usuario logados,Usuarios nao logados
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
