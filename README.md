@@ -1,12 +1,12 @@
-# :checkered_flag: MamaMia
+# :checkered_flag: pizza Hot
 
-site de comida onde cliente pode ver o preço das pizzas e montar sua pizza e conhecer um pouco sobre a empresa
+site de comida onde cliente pode ver o preço das pizzas e montar sua pizza e ver comentarios sobre os as melhores pizzas
 
 ## :technologist: Membros da equipe
 
 Thiago viana Bezerra,496254,Engenharia de computaçao
 
-Joao Victor Carvalho,,Engenharia de computação
+Joao Victor Carvalho de Oliveira,499062,Engenharia de computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
@@ -18,11 +18,20 @@ Administrador,Usuario logados,Usuarios nao logados
 
 Liste as principais entidades do sistema.
 
+Usuário,Pizza e Comentarios
+
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
-
+- vizualizar um catalógo de pizza
+- pedir uma pizza pronta
+- montar uma pizza
+- criar uma conta
+- escrever e ver comentarios
+- excluir pedido
+- editar pedido
+ 
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
