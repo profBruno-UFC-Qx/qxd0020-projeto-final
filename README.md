@@ -1,10 +1,11 @@
 # :checkered_flag: MamaMia
 
-site onde o cliente podera escolher o tipo de pizza que ele quer atravez de tabelas e cruds simples
+site de comida onde cliente pode ver o preço das pizzas e montar sua pizza e conhecer um pouco sobre a empresa
 
 ## :technologist: Membros da equipe
 
-MThiago viana Bezerra,496254,Engenharia de computaçao
+Thiago viana Bezerra,496254,Engenharia de computaçao
+
 Joao Victor Carvalho,,Engenharia de computação
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
