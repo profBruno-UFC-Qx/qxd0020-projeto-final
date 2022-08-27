@@ -4,21 +4,35 @@ Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+497091 - Dayana Priscilla Nunes Ferreira Costa - SI
 
+521432 - Lucas Gabriel Brito Silveira - CC
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuários:
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+- Administrador 
+- Usuário
+- Usuários não logados
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+- Livro
+- Usuário
+- Administrador
+- Conexões
+- Comentários
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
+ ### Sobre o Sistema:
+ 
+Inspirado em sistemas como o Linkedin, Twitter e Tinder. Nosso projeto pensa em unir pessoas por seus gostos literários utilizando dos interesses em comum para recomendar leituras, mesmo que as tais tangenciem preferência do usuário. Com o intuito de apresentar coisas novas e evitar a formação de bolhas, nosso sistema pretende unir pessoas e aumentar seus horizontes.
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+
+- Usuários não logados: Podem ver a página inicial da aplicação, trending topics mas não tem acesso a parte que permite interagir com outros usuários.
+- Usuários logados: Podem ver/fazer/excluir as suas conexões e comentários de cada livro, podem ver as conexões de pessoas que tem conexão e ver o assunto que mais conecta ela com outro usuário.
+- Administrador: Cadastra livros, pode banir usuários, apagar comentários.
+
 
 
 ----
