@@ -1,6 +1,6 @@
 # :checkered_flag: WeBook
 
-Breve descrição do que o seu projeto faz.
+O WeBook é uma rede social que visa unir pessoar através dos seus gostos literários, assim os seus usuários poderão compartilhar as suas leituras e encontrar novas opções de leituras nas indicações feitas pelos perfis dos usuários com leituras em comum.
 
 ## :technologist: Membros da equipe
 
