@@ -6,6 +6,7 @@ Aqui devem ficar os arquivos HTML, CSS e Javascript ou Typescript
 > Separar os arquivos em pastas é uma boa prática. 
 
  ``` 
+├── index.html
 ├── css
 │   ├── dialog.css
 │   └── layout.css
