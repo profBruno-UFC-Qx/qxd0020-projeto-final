@@ -1,0 +1,19 @@
+name: Adicionar ao Board de Propostas
+
+on:
+  pull_request:
+    types: [opened]
+    branches: [main]
+
+jobs:
+  adicionar-ao-board:
+    name: adicionar-ao-board
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v1.0.2
+        with:
+          # TODO (configuração única por semestre/projeto): troque NUMERO_DO_PROJETO
+          # pela URL real do GitHub Project criado em
+          # https://github.com/orgs/profBruno-UFC-Qx/projects
+          project-url: https://github.com/orgs/profBruno-UFC-Qx/projects/NUMERO_DO_PROJETO
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
