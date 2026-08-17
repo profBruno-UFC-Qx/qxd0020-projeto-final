@@ -1,30 +1,30 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: BiblioTeca Fácil
 
-Breve descrição do que o seu projeto faz.
+Sistema para gerenciar empréstimos de livros da biblioteca do curso.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+123456 João Silva QXD
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+Facilitar o empréstimo e devolução de livros.
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+Alunos e bibliotecários do curso.
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+Reduzir filas e perda de livros.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Bibliotecário e aluno.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+Cadastro e busca de livros; empréstimo e devolução.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Livro, Empréstimo, Usuário.
